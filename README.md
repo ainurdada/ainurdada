@@ -1,7 +1,17 @@
 <p align="center">
-<img src="./github-header-image.png">
+<img src="Images/github-header-image.png">
 <h1 align="center">Hi 👾, I'm Game Developer</hq> 
-</p>
+</p>  
+
+## About me
+
+
+## Languages and Tools:
+![Unity](https://img.shields.io/badge/Unity-273254?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/C%23-273254?style=for-the-badge&logo=csharp&logoColor=1D9E25)
+![.NET](https://img.shields.io/badge/.NET-273254?style=for-the-badge&logo=.net&logoColor=00ABE6)
+![Aseprite](https://img.shields.io/badge/Aseprite-273254?style=for-the-badge&logo=aseprite&logoColor=7D929E)
+![Blender](https://img.shields.io/badge/blender-273254?style=for-the-badge&logo=blender&logoColor=F5792A)
 
 
 <!--
