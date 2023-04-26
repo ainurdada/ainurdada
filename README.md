@@ -1,4 +1,8 @@
-# Hi 👾, I'm Game Developer 
+<p align="center">
+<img src="./github-header-image.png">
+<h1 align="center">Hi 👾, I'm Game Developer</hq> 
+</p>
+
 
 <!--
 **ainurdada/ainurdada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
