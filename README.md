@@ -14,6 +14,6 @@
 ![Blender](https://img.shields.io/badge/blender-273254?style=for-the-badge&logo=blender&logoColor=F5792A)
 
 ### My contacts  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-273254?style=for-the-badge&logo=LinkedIn)]([https://t.me/ainurdada](https://www.linkedin.com/in/ainurdada/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-273254?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ainurdada/)
 [![Telegram](https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram)](https://t.me/ainurdada)
-![GMail](https://img.shields.io/badge/gmail-273254?style=for-the-badge&logo=GMail)
+![GMail](https://img.shields.io/badge/ainurdada@gmail.com-273254?style=for-the-badge&logo=GMail)
