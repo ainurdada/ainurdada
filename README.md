@@ -1,6 +1,5 @@
 <p align="center">
 <img src="Images/github-header-image.png">
-<h1 align="center">Hi 👾, I'm Game Developer</h1> 
 </p> 
 
 ### My tool
